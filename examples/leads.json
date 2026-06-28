@@ -1,0 +1,43 @@
+[
+  {
+    "id": "lead_001",
+    "name": "Mike",
+    "business": "Mike's Towing",
+    "phone": "+15550000001",
+    "email": "mike@example.com",
+    "sim": {
+      "outcome": "human_reached",
+      "transcript": "Yeah this is Mike. How much is it? Okay, let's do it, set it up."
+    }
+  },
+  {
+    "id": "lead_002",
+    "name": "Dana",
+    "business": "Dana Plumbing",
+    "phone": "+15550000002",
+    "sim": {
+      "outcome": "voicemail",
+      "transcript": "You've reached Dana Plumbing, please leave a message after the tone."
+    }
+  },
+  {
+    "id": "lead_003",
+    "name": "Sam",
+    "business": "Sam Roofing",
+    "phone": "+15550000003",
+    "sim": {
+      "outcome": "human_reached",
+      "transcript": "No thanks, not interested right now."
+    }
+  },
+  {
+    "id": "lead_004",
+    "name": "Pat",
+    "business": "Pat HVAC",
+    "phone": "+15550000004",
+    "sim": {
+      "outcome": "human_reached",
+      "transcript": "Take me off your list and do not call again."
+    }
+  }
+]
