@@ -157,3 +157,7 @@ This repo now includes GitHub issue templates, a PR checklist, Dependabot checks
 ## License
 
 [MIT](LICENSE) © Denis Redzic
+
+
+## Webhook Signatures
+See [docs/WEBHOOK_SIGNATURES.md](docs/WEBHOOK_SIGNATURES.md) for securing webhooks.
